@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mofazid
+- 👋 Hi, I’m @mofazid Mohammad Fauzan Zidny
 - 👀 I’m interested in Data Science and back end developer
 - 🌱 I’m currently learning python and Go 
 - 💞️ I’m looking to collaborate on Sela
